@@ -83,11 +83,11 @@ p.lead {
   color: #4537a1;
 }
 
-#competences div {
+#competenties div {
   position: absolute;
 }
 
-#competences div:not(.visible) {
+#competenties div:not(.visible) {
   visibility: hidden;
 }
 
