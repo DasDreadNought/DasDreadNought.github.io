@@ -86,3 +86,17 @@ p.lead {
 #competenties div:not(.visible) {
   visibility: hidden;
 }
+
+#competentiesNavBarList{
+  list-style: none;
+  display: flex;
+}
+
+#competentiesNavBarList li{
+  background: $primary;
+  color: white;
+}
+
+#competentiesNavBarList li hover{
+  background: $primaryHover;
+}
