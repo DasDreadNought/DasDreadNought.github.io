@@ -103,7 +103,7 @@ p.lead {
   color: white;
 }
 
-#competentiesNavBarList li hover {
+#competentiesNavBarList li:hover {
   background: #6a56ff;
 }
 
