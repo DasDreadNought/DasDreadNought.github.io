@@ -190,3 +190,10 @@ a {
 a:hover, a:focus, a:active {
   color: #305e84;
 }
+
+#competenties div {
+  position: absolute;
+}
+#competenties div:not(.visible) {
+  visibility: hidden;
+}
