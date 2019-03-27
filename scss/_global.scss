@@ -78,3 +78,11 @@ p.lead {
     }
   }
 }
+
+#competences div {
+  position: absolute;
+}
+
+#competences div:not(.visible) {
+  visibility: hidden;
+}
